@@ -1,0 +1,7 @@
+{
+    "listOfAllowedSKUs": {
+        "value": [
+            "Standard_LRS"
+        ]
+    }
+}

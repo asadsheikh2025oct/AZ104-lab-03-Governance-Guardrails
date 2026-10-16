@@ -1,0 +1,8 @@
+{
+  "listOfAllowedLocations": {
+    "value": [
+        "uksouth",
+        "ukwest"
+      ]
+  }
+}
