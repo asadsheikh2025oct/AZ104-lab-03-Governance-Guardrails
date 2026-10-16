@@ -1,4 +1,4 @@
-# Mini-Lab 03 — Azure Governance Guardrails
+# AZ104-Lab 03 — Azure Governance Guardrails
 
 ## KEY LEARNINGS
 
